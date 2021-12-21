@@ -24,9 +24,9 @@ This is a news application. I made it to learn the all basics of the REST APIS (
 
 <table>
   <tr>
-    <td><img src="lib/screen_shots/news1.jpg" width=270 height=480></td>
-    <td><img src="lib/screen_shots/news2.jpg" width=270 height=480></td>
-    <td><img src="lib/screen_shots/news3.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/news1[1].jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/news2[1].jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/news3[1].jpg" width=270 height=480></td>
   </tr>
  </table>
 
