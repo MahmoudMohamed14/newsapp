@@ -17,6 +17,7 @@ This is a news application. I made it to learn the all basics of the REST APIS (
     - webview_flutter
 
 ## Video
+https://user-images.githubusercontent.com/79115058/147070412-3e789d2e-d864-4e1c-b48e-82b593da7709.mp4
 
 
 
