@@ -33,6 +33,6 @@ https://user-images.githubusercontent.com/79115058/147070412-3e789d2e-d864-4e1c-
 
 <table>
   <tr>
-   her are to photo
+   <td><img src="lib/screen_shots/news4.jpg" width=270 height=480></td>
   </tr>
  </table>
